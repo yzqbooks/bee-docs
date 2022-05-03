@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbee=self.webpackChunkbee||[]).push([[8119],{3265:function(e){e.exports=JSON.parse('{"allTagsPath":"/bee-docs/blog/tags","name":"hola","count":1,"permalink":"/bee-docs/blog/tags/hola"}')}}]);
